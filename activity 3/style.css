@@ -1,0 +1,54 @@
+/*CSS Template*/
+
+body {
+    
+}
+main {
+    padding: 60px;
+    background-color: #d8d8d8;
+    
+}
+header {
+    
+}
+
+h1 {
+    padding: 20px;
+    background-image: linear-gradient(to right, #262626, #0080ff , #ffffff);
+    font-family: sans-serif;
+    color: #ffffff;
+    font-size: 3em;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+p {
+    background-color: #ffffff;
+    font-family: sans-serif;
+    font-size: 120%;
+    width: 80%;
+    padding: 20px;
+}
+
+table, th, td {
+  border: 1px solid #000000;
+    padding: .5em;
+}
+
+table#simple-table {
+    width: 40%;
+    background-image: linear-gradient(to right, #262626, #0080ff, #6eb7ff, #0080ff, #262626);
+    background-color: rgba(0, 128, 255, 0.44);
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 10px;
+    
+}
+
+section {
+    
+}
